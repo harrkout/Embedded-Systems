@@ -1,1 +1,1 @@
-# Embedded-Systems lab files and stuuff
+# Embedded-Systems lab files and stuff
